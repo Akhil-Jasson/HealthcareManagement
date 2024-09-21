@@ -1,0 +1,252 @@
+
+
+---------------- Patient Details ----------------
+Patient ID:
+CHMCAA0003
+
+Name:
+Sujata Sharma
+
+Age:
+36
+
+Blood Type:
+O+ve
+
+Illness Type:
+Fever
+
+Gender:
+Female
+
+Address:
+No.25,Gandhi Road,Vellore,Tamil Nadu,India
+---------------- Doctor's Details ----------------
+Doctor ID:
+CHMC1004
+
+Name:
+Dr Lakshmi Narayan  MD
+
+Cabin Number:
+304
+
+Mobile Number:
+9987338294
+
+
+
+
+---------------- Patient Details ----------------
+Patient ID:
+CHEMAA0004
+
+Name:
+Girish Thakur
+
+Age:
+29
+
+Blood Type:
+AB+ve
+
+Gender:
+Male
+
+Address:
+7,Anna Salai,Pudur,Vellore,Tamil Nadu 
+
+Illness Type:
+Accident
+---------------- Doctor's Details ----------------
+Employee ID:
+CHEM1003
+
+Name:
+Divya Jain  MS
+
+Cabin Number:
+020
+
+Mobile Number:
+8011719088
+
+
+---------------- Patient Details ----------------
+Patient ID:
+CHNRBA0005
+
+Name:
+Harish Mehta
+
+Age:
+69
+
+Blood Type:
+O-ve
+
+Illness Type:
+Alzheimers
+
+Gender:
+Male
+
+Address:
+42,Arcot Road,Ranipet,Vellore Tamil Nadu
+---------------- Doctor's Details ----------------
+Doctor ID:
+CHNR1003
+
+Name:
+Dr Shweta Tiwari  MCh Neurology
+
+Cabin Number:
+103
+
+Mobile Number:
+9760653412
+
+
+
+
+---------------- Patient Details ----------------
+Patient ID:
+CHSRAA0001
+Name:
+Sharmila Pathak
+
+Age:
+34
+
+Blood Type:
+B+ve
+
+Surgery Type:
+Internal Infection
+
+Gender:
+Female
+
+Address:
+11,Arni Road,Arcot,Vellore,Tamil Nadu
+---------------- Doctor's Details ----------------
+Doctor ID:
+CHSR1004
+
+Name:
+Dr Ajeesh Chacko  MS
+
+Cabin Number:
+404
+
+Mobile Number:
+9938312345
+
+
+
+
+---------------- Patient Details ----------------
+Patient ID:
+CHSRAA0002
+Name:
+Dhanush Agarwal
+
+Age:
+59
+
+Blood Type:
+B+ve
+
+Surgery Type:
+Blood Cancer
+
+Gender:
+Male
+
+Address:
+6,Gandhi Nagar,Chittoor Road,Vellore,Tamil Nadu
+---------------- Doctor's Details ----------------
+Doctor ID:
+CHSR1002
+
+Name:
+Dr Ashok Rajagopal  MS
+
+Cabin Number:
+402
+
+Mobile Number:
+9932816445
+
+
+
+
+---------------- Patient Details ----------------
+Patient ID:
+CHEMAA0005
+
+Name:
+Sumeet Mishra
+
+Age:
+38
+
+Blood Type:
+O+ve
+
+Gender:
+Male
+
+Address:
+3/1,Gandhi Street,Gudiyatham,Vellore,Tamil Nadu
+
+Illness Type:
+Accident
+---------------- Doctor's Details ----------------
+Employee ID:
+CHEM1003
+
+Name:
+Divya Jain  MS
+
+Cabin Number:
+020
+
+Mobile Number:
+8011719088
+
+
+---------------- Patient Details ----------------
+Patient ID:
+CHSRAA0003
+Name:
+Diksha Bharadwaj
+
+Age:
+39
+
+Blood Type:
+A-ve
+
+Surgery Type:
+Cardiac Bypass Surgery
+
+Gender:
+Female
+
+Address:
+22,Park Street,Shillong,Meghalaya
+---------------- Doctor's Details ----------------
+Doctor ID:
+CHSR1003
+
+Name:
+Dr Alwin Kurian  MS
+
+Cabin Number:
+403
+
+Mobile Number:
+9938343287
+
+
